@@ -1,7 +1,4 @@
 # README
-
-
-
 ##　アプリケーション名
 - buy-quickly
 
